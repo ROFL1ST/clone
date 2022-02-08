@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "220896429188",
+    "project_id": "fir-training-f38b6",
+    "storage_bucket": "fir-training-f38b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220896429188:android:8b0ec467216ec56941eed1",
+        "android_client_info": {
+          "package_name": "com.example.latihan_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220896429188-cv0gg7mteirm6vv9crhvdd4taftbv8pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihan_firebase",
+            "certificate_hash": "5928226c5d274caa0f04e473353be474d1cac232"
+          }
+        },
+        {
+          "client_id": "220896429188-99e1pi7hn386eo536hg6mgf7k8d06j85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ERIFknEJkoEOL2fqq4rge62z4F4MUJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220896429188-99e1pi7hn386eo536hg6mgf7k8d06j85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
